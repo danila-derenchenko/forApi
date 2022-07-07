@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Honor 9X",
+        "id": "464634",
+        "price": "15000"
+    },
+    {
+        "name": "Honor 9X pro",
+        "id": "464684",
+        "price": "16000"
+    },
+    {
+        "name": "Xbox Series X",
+        "id": "484634",
+        "price": "30000"
+    },
+    {
+        "name": "Xbox",
+        "id": "484674",
+        "price": "25000"
+    }
+]
