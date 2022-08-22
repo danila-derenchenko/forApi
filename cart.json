@@ -4,6 +4,6 @@
         "price": "$300",
         "color": "red",
         "size": "XL",
-        "imgURL": "../img/catalogImg-3.png"
+        "imgurl": "../img/catalogImg-3.png"
     }
 ]
