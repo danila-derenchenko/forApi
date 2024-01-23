@@ -1,10 +1,12 @@
 [
   {"dateTime": "2024-01-23T15:37",
     "URLaddres": "https://ya.ru",
-    "text": "Hello"
+    "text": "Hello",
+    "id": "1"
   },
   {"dateTime": "2024-01-23T15:45",
     "URLaddres": "https://ya.ru",
-    "text": "Hello World"
+    "text": "Hello World",
+    "id": "2"
   }
 ]
